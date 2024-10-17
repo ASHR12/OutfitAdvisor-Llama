@@ -1,0 +1,5 @@
+streamlit
+Pillow
+pinecone-client
+python-dotenv
+groq
